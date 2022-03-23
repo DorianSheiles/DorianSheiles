@@ -11,7 +11,3 @@ My key skills in the role consist of:
 - Software Engineering
 
 You will find me uploading my personal projects here from time to time!
-
-The Blues Brothers is the greatest film of all time.
-
-Peace <3. 
