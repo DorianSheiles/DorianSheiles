@@ -2,12 +2,6 @@ Howdy! I'm Dorian Sheiles, an avid software developer from Australia who works p
 
 My specialisation technologies are C# and Python.
 
-I currently work as a fullstack developer for Industrial Automation Group PTY LTD.
-My key skills in the role consist of:
-- ASP.NET Fullstack Development
-- Database Management
-- Database Design
-- Website Design
-- Software Engineering
+Technical Consultant @ MOQDigital in Australia. Specializing in digital services and applications.
 
 You will find me uploading my personal projects here from time to time!
